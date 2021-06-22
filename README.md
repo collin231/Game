@@ -1,0 +1,2 @@
+# Game
+A simple game. This a python game which uses pygame. The game works in a sense that the player can move up and down, left and right to try and dodge the enemies which are only moving from right to left. If the player touches any of the enemies on the screen then they lose. if the player manages to dodge the enemies until all enemies are off the screen then the player win. The game ends when the player either wins or loses.
